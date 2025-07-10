@@ -1,4 +1,4 @@
-## 🛍️ New Year Sales Analysis | Data Analytics Portfolio Project
+## 🛍️ Customer Purchase  Analysis | Data Analytics Portfolio Project
 Welcome to my data analytics project where I analyzed a New Year sales dataset to uncover insights into customer purchasing behavior, sales performance by demographic, and product preferences.
 
 ## 🔍 Objective
